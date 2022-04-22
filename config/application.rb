@@ -19,7 +19,4 @@ module ChatApp
   end
 end
 
-ja:
-  time:
-    formats:
-      default: "%Y/%m/%d %H:%M:%S"
+
